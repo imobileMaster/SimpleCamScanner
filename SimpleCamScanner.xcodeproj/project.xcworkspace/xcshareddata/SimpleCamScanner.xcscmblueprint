@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d2f5abfd-62d6-4745-845d-58344f364528++2908" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d2f5abfd-62d6-4745-845d-58344f364528++2908" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7CF619BF-625A-4E95-87BA-162248825F4A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d2f5abfd-62d6-4745-845d-58344f364528++2908" : "SimpleCamScanner\/SimpleCamScanner\/Sample%20code\/rcg\/roulette\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleCamScanner",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleCamScanner.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/198.61.210.253\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d2f5abfd-62d6-4745-845d-58344f364528++2908"
+    }
+  ]
+}
