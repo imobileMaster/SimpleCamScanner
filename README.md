@@ -1,4 +1,4 @@
-@copyright iMobileMaster
+@copyright MobileMaster
 created in 2016.3.1
 
 Description
